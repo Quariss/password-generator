@@ -27,3 +27,17 @@ This project uses the following dependencies:
 If you want to contribute to the development of this project, you can follow these steps to set up the development environment:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed in the `requirements.txt` file using pip.
+3. Pip install -r requirements.txt
+4. Make your changes or additions to the code.
+5. Test your changes thoroughly.
+6. Create a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Special thanks to the developers of the Tkinter and PyInstaller libraries for making the creation of this project possible.
+
+
